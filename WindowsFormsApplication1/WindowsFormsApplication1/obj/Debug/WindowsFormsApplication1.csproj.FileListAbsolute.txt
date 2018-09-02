@@ -1,0 +1,264 @@
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+D:\Комп. проект\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\moskalenko_s\Desktop\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+F:\08.02.18\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\08.02.18\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\08.02.18\08.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\moskalenko_s\Desktop\26.02.18\26.02.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\moskalenko_s\Desktop\01.03.18\01.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\05.03.18\05.03.18\05.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ivanov\Desktop\11.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Курсувая\!!!14.03.18\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Курсувая\москаленко\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\Курсовая\работает\)))\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
